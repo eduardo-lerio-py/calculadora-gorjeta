@@ -20,7 +20,7 @@ def calcular(preco, porcentagem, pessoas):
 
 def resultado(preco_total, gorjeta, preco_individual):
     print(f"Preço Total: {preco_total:.2f} "
-          f"\nGorjeta : {gorjeta:.2f} "
+          f"\nGorjeta: {gorjeta:.2f} "
           f"\nPreço por pessoa: {preco_individual:.2f} ")
 
 
