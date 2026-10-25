@@ -21,3 +21,9 @@ Preço por pessoa: 11.00
 Gostaria de fazer mais alguma conta? (s/n): n
 Obrigado! Tenha um ótimo dia
 ```
+
+## Observação
+Há dois arquivos.
+calcula_gorjeta.py: É o código original feito de forma procedural.
+calcula_gorjeta(classes).py: É uma versão do código original escrito em classes.
+Ambos têm mesmo resultado, o que muda é a forma como o código foi escrito.
